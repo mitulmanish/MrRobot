@@ -12,10 +12,11 @@ To run the test:
 ##Description:
 
 ### Directions on the board
-1. ⇡ West
-2. ⇢ North
-3. ⇠ South  
-4. ⇣ East
+
+1. ⇢ North
+2. ⇠ South  
+3. ⇣ East
+4. ⇡ West
 
 The application is a simulation of a toy robot moving on a square tabletop, of dimensions 5
  	units x 5 units.
